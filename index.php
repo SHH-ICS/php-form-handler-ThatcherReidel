@@ -5,6 +5,11 @@
   </head>
 
   <body>
+ 
+  <form action="handler.php" method="post">
+Name: <input type="text" name="name"><br>
+<input type="submit">
+</form>
 
     <?php
     echo "<h1>Hello, World!</h1>\n";
