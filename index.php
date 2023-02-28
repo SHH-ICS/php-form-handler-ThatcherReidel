@@ -11,7 +11,7 @@
 
   <body>
  
-  <form action="handler.php" method="post">
+  <form action="https://tkinson.net/ics2o/handler.php" method=POST>
 Name: <input type="text" name="name"><br>
 <input type="submit">
 </form>
